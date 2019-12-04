@@ -1,0 +1,14 @@
+{
+  "name": "layout",
+  "version": "1.0.0",
+  "description": "J'ai créée une row contenant 2 col de 12 : une qui se trasformera en col-11 à partir du mode \"tablette\" et l'autre en col-11 au même stade que la première. J'ai ajoutée un background color gris à la première et un <p> afin de mieux la travailler au départ et j'ai fait de même avec la seconde (background noir cette fois) Ensuite j'ai créée une row contenant 2 col: une de 2 et une de 10. A la première j'ai enlevée le padding de droite afin de tout coller. J'ai ajoutée un background color gris à la première et un <p> afin de mieux la travailler au départ et j'ai fait de même avec la seconde (background noir cette fois)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}

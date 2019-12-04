@@ -1,0 +1,36 @@
+/* p {
+    margin: 0;
+    padding: 0;
+} */
+
+.btn1 {
+    background-color:#97c300;
+}
+
+.btn2 {
+    background-color:#00adc1;
+}
+
+.btn3 {
+    background-color:#ff7437;
+}
+
+.btn4 {
+    background-color:#994dd1;
+}
+
+ul {
+    list-style-type: none
+}
+
+#sel1 {
+    width:50px;
+}
+
+.news {
+    margin-left: 25rem;
+}
+
+.bandeau {
+    margin-left: 25rem;
+}
